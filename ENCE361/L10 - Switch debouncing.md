@@ -13,7 +13,7 @@ It's likely that a switch will bounce on/off one contact multiple times, but bou
 ## Single throw switches - RC circuit
 ### Schmitt trigger
 A Schmitt trigger uses two thresholds to try and reduce uncertainty. It will output high if the inputted voltage is above its upper threshold (**H**), and continue to output high until it drops below its lower threshold (**L**) (and vice versa). If in middle zone, logical output is whatever threshold it crossed most recently. 
-![](images/Pasted%20image%2020240612100636.png)
+![](/images/Pasted%20image%2020240612100636.png)
 
 A RC circuit-based approach to debouncing uses a resistor and capacitor with a Schmitt trigger to force the switch to be in a state for a set amount of time before registering HIGH.
 When the switch is open, the capacitor will charge up. When the switch is closed, the capacitor will have to discharge to a certain level before the voltage level crosses the trigger's threshold.
