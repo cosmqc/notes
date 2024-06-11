@@ -59,7 +59,7 @@ void main (void) {
 ### Interrupt-triggered
 Using the foreground/background model, can use either of the other two but will have interrupt-triggered tasks if they have higher priority
 
-![[Pasted image 20240502132211.png]]
+![[/images/Pasted image 20240502132211.png]]
 
 Pros:
 - Fast response to asynchronous events
