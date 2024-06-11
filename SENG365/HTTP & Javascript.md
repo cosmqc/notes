@@ -302,7 +302,7 @@ Designed by Google dev who thought Angular was too heavy
 - Uses components with life cycles (like React)
 - Virtual DOM
 - Templating
-## Svelte
+### Svelte
 Parses its own .svelte files and compiles into JS.
 - Abstract syntax tree to generate JS and CSS
 - Compiled JS mounts component, handles events, and patches DOM itself
