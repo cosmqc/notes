@@ -1,4 +1,5 @@
 Switch bouncing is where (due to human error) a pushed button flickers between high and low for a short time before settling high (on push down) or settling low (on release).
+
 ![](/images/Pasted%20image%2020240612093626.png)
 
 This makes it hard to figure out how many times the button was actually pressed, and especially when using something like interrupts that trigger on a rising/falling edge.
