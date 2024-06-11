@@ -10,8 +10,8 @@ It's able to be programmed for input or output, digital or analogue, serial comm
 	- ie 'PA1' -> PIN1 on PORTA
 	- PORTE only has (PE0-PE5), PORTF only has (PF0-PE4)
 
-![[Pasted image 20240222130714.png]]
-![[Pasted image 20240222131124.png]]
+![[images/Pasted image 20240222130714.png]]
+![[images/Pasted image 20240222131124.png]]
 
 ## Initialization
 GPIO ports, as system peripherals, need to be enabled before use to avoid crashing.
@@ -21,7 +21,7 @@ GPIOPORTF->CFR = 0x02
 SysCtlPeripheralEnable(SYSCTL_PERIPH_GPIOF);
 ```
 Some special pins have to be unlocked prior to being used.
-![[Pasted image 20240222132845.png]]
+![[images/Pasted image 20240222132845.png]]
 ```c
 # Set GPIO pin as WPU or WPD
 void GPIOPadConfigSet (ui32Port, ui8Pins, ui32Strength, ui32PinType);
@@ -55,11 +55,11 @@ GPIOPinWrite (ui32Port, ui8Pins, ui8Val) // Output eg
 # Output LEDs and Input Switches
 [TIVA board]() has 3 LEDs (red, green, blue), and 2 buttons (SW1, SW2).
 All of these are on PORT F.
-![[Pasted image 20240222131509.png]]
+![[images/Pasted image 20240222131509.png]]
 
 ## LEDs
 All active HIGH. Transistors are used as switches, so voltage to the base must be above 0.7V to allow current flow.
-![[Pasted image 20240222131912.png]]
+![[images/Pasted image 20240222131912.png]]
 
 ## Switches
 On their own, they don't have debouncing circuitry.
