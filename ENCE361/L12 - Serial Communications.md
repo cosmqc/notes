@@ -37,3 +37,4 @@ There is even and odd parity. If you sum the data section and the parity bit, th
 If the resulting number doesn't match the parity type, then at least one bit has been flipped.
 A single parity bit can only detect one bit error, but doesn't know where it is.
 
+## UART -
