@@ -66,12 +66,46 @@ Not always possible to simultaneously uphold the rights of all parties, i.e.
 
 #### Justice
 Actions must be just and fair (legal requirements are just the minimum)
+Again not always possible to simultaneously be fair to all parties
 - Distributive justice / Equity
 >Different treatment of people should not be based on arbitrary characteristics
 - Procedural justice / Impartiality
 > Rules should be clearly stated and consistently and impartially enforced
 - Compensatory justice / fairness
 > Compensated for injury by responsible party
-### Ends based thinking (Consequentialism)
 
-###
+#### The Golden Rule
+>Treat others as you would wish to be treated
+- Assumes your needs and wants are the same as everyone elses
+- Does not distinguish between competing stakeholders
+> Treat people the way **they** wish to be treated 
+
+### Prima Facie
+Fidelity - Keep promises and don't tell lies
+Reparation - Fix what you have done wrong
+Gratitude - To parents and benefactors
+Justice - Beyond the letter of the law
+Beneficence - Do good if you can
+Self-improvement - Make yourself better (so you can do better for others)
+Non-maleficence - Do not injure others
+### Ends based thinking (Consequentialism)
+>An act is ethical when they achieve the best outcome
+>The ends justify the means 
+- Teleology is similar, slightly different
+- Flexible, not absolute
+- How to judge the 'best' outcome?
+	- Who is this best for? (me, family, most people?)
+	- Can we judge this accurately?
+### Utilitarianism
+>Acts are ethical when they achieve the greatest good for the greatest number
+>It is the greatest happiness of the greatest number that is the measure of right and wrong
+- Assess good and bad outcomes
+- Consider short and long term
+- Consider all affected stakeholders (often done w cost-benefit analysis)
+- Only considers the overall happiness/suffering, not the distribution
+- Difficult to quantify 'happiness'/'suffering' -> see 'monetary cost of a human life'
+#### Stakeholders
+- All entities meaningfully affected by the outcome
+- Includes both positive and negative outcomes
+- May include non-human entities - animals, the environment, etc.
+### Virtue based thinking
