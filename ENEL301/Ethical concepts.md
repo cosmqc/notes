@@ -109,3 +109,18 @@ Non-maleficence - Do not injure others
 - Includes both positive and negative outcomes
 - May include non-human entities - animals, the environment, etc.
 ### Virtue based thinking
+- Acts are ethical if they are what a 'virtuous' person would do in the same circumstances
+- Extremes are to be avoided (Aristotle's Golden Mean), eg courage is a virtue but too much is recklessness and too little is cowardice
+- Virtues can include honesty, courage, compassion, fairness, prudence, tolerance, etc.
+- 'Be a good person'
+
+## Blended theories
+### Weinstein's Five Ethical Principles
+- Do no harm
+	- Prevent harm
+	- 'All that is ncessary for evil to flourish is for good to do nothing' - Edmund Burke
+- Make things better
+	- Do good
+- Respect others
+- Be fair
+- Be passionate
