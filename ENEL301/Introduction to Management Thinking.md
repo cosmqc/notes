@@ -6,7 +6,7 @@
 
 > "Management is getting things done in organisations through people"
 #### What do managers do?
-- Managers directly up port and facilitate the work efforts of other people in organisations
+- Managers directly support and facilitate the work efforts of other people in organisations
 - They organise the people in the organisation by planning what to do, leading people, and controlling errors
 ![](images/Pasted%20image%2020240724154206.png)
 

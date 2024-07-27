@@ -64,4 +64,9 @@ Generic search algorithm - given a graph, start nodes, and goal nodes, increment
 - LCFS selects a path on the frontier with the lowest cost
 - Frontier is a priority queue ordered by path cost
 - LCFS finds an optimal solution: a least-cost path to a goal node
+	- Also explores options in every direction
+	- Has no information about the goal node (uninformed)
 - Also called uniform-cost search
+- Assuming a FST of depth d and branching factor b
+	- Time complexity -> O()
+	- Space complexity -> O()
