@@ -8,9 +8,10 @@
 Tēnā koutou, tēnā koutou, tēnā tatou katoa
 Ngā iwi, Kia ora ra
 Ko Aoraki te maunga te rū nei taku ngākau
-Ko Takapō te 
-Nō Ihipa ahau
+Ko Takapō te roto e mahea nei aku māharahara
+Nō Īhipa ahau
 Kei Ōtautahi ahau e noho ana
+Ko Ngāti Pākehā te iwi
 Ko Jake ahau
 Tihei mauri ora
-Nō Reira, tēnā koutou, tēnā koutou, tēnā koutou katoa
+Nō reira, tēnā koutou, tēnā koutou, tēnā koutou katoa
