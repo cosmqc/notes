@@ -13,3 +13,6 @@ Main role of HCI is to manage the complexity of an interface. To design an objec
 
 #### Dark pattern
 > A user interface that has been carefully created to trick users into doing thing, like buying overpriced insurance, or signing up for recurring bills.
+
+#### Cognitive load
+> The amount of information that our working memory can hold at one time
