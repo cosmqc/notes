@@ -6,7 +6,6 @@
 - Focus on high-level concepts
 - Delays commitment - not over-committed to one idea
 - Annotations to show how user moves through UI
-
 - Vertical prototype -> One/few features, high level of functionality
 - Horizontal prototype -> Many features, but only not much functionality / only blue skies
 #### Medium/high-fidelity - wireframes / animations
@@ -20,8 +19,34 @@
 - Improves quality and function of design
 - Beware of tunnel vision - premature commitment, local maximum
 - **Ideation** - Generating many ideas/variations, choose set of most promising, iterate
+#### System-centered design
+- Bad, don't do
+- Focuses on the system's and designer's needs (the only parties not using the app)
+  - What can we easily build?
+  - What do I (the programmer) find interesting?
+- Poor user experience -> important to balance system efficiency and user experience
+- Decreased accessibility and inclusivity
 #### Task-centered design
 - Designs interfaces based on users' real world tasks
+- HCI Equivalent of use cases / requirements analysis
+- Define exactly who the users and what they want to do ('Mary' not 'User')
+- Four phases:
+  - User Identification
+    - Identify specific users and articulate their concrete tasks
+    - Categories of users: typical/extreme cases, novice/expert, casual/frequent
+  - Requirements / Task identification
+    - Decide which tasks and users the design will support
+    - Record **what** the user wants to do (minimize the **how**/interface assumptions)
+    - Record the complete task (input source, output destination)
+    - Number/label tasks so they can be referred to later (SP15)
+  - Design
+    - Base design on tasks and how well design fits specific users
+    - Use task categories/scenarios to generate/evaluate designs
+    - **HOW** will a user complete the task?
+  - Walkthrough evaluation
+    - Using design, walk through the tasks to test the interface
+
+- Tasks often conform to process, so hard to identify tasks that are independent of workflow -> hinders identification of better ways to achieve tasks 
 #### User-centered design
 - Focus on users and their needs in each phase of the design process
 #### Partitipatory / Co-design

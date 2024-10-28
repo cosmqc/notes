@@ -18,10 +18,7 @@
 ## Disadvantages
 - Very general, lots of overlaps
 - Subtleties in application, up to us to think of how and where to apply them
-
-
 # Nielsen's 10 Heuristics
-
 ## Visibility of system status
 - Design should always keep users informed about what is happening
 - No action with consequence to the user should be taken without feedback
