@@ -118,13 +118,11 @@ Well-determined -> natural translation from task to input language
 Under-determined -> User knows what they want to do, but not how to do it. Happens via over-simplifying or abstraction (i.e. cmdline)
 
 Over-determined -> User forced through unnecessary steps ('Click OK to proceed')
-
 #### Mapping
 - Tieing buttons/actions to expected outcomes.
 - Good mappings between User and Interface increase usability
   - Dials for stove top
   - Light switches are closer to the light they turn on
-
 #### Affordance
 > The perception of what actions are possible 
 
@@ -134,7 +132,6 @@ Over-determined -> User forced through unnecessary steps ('Click OK to proceed')
   - Sliders -> sliding
   - Dials -> turning
   - Handles -> pulling
-
 #### Signifiers
 > Specify how users discover affordances
 Cactus

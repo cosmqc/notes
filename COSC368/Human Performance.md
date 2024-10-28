@@ -21,7 +21,7 @@ Takes two forms:
 - The delay in reaction time between congruent and incongruent stimuli
 - Congruent -> Text colour is the same as the word
 - Incongruent -> Text colour is not the same as the word
-- Used to identify spies in WW2, as it was assumed they couldn't speak Russian. If they took a long time or said the wrong colour, it was assumed they spoke Russian and were therefore a spy
+- Used to identify spies in WW2, as it was assumed they couldn't speak Russian. Coloured Names of colours were written incongruently in russian, If they took a long time or said the wrong colour, it was assumed they spoke Russian and were therefore a spy
 
 ![Two lists of coloured words, one half has matching colours, the other half has non-matching colours](/images/image-5.png)
 
@@ -29,13 +29,10 @@ Takes two forms:
 - Discomfort a person feels when their behaviour does not align with their values or beliefs
 - Therefore people try to rationalize/justify beliefs (cope/seethe/mald)
 - i.e. You want to be healthy but don't east a nutritious diet, you feel guilty -> "Well I've been too busy this week"
-
-
 #### Homeostasis
 - People maintain equilibrium
 - If a system makes things easier, it'll be used to do more difficult things
 - If a system makes things safer, it'll be used to do more dangerous things
-
 #### Satisficing
 - People 'make do' rather than optimize
 - Strategy that aims for a adequate result, rather than an optimal one
@@ -44,15 +41,18 @@ Takes two forms:
 
 #### Hawthorne Effect
 - Individuals modify their behaviour bc they know they're being observed
-
 #### Fixation
 - People repeatedly reuse the same solution instead of investigating new and potentially better methods
-
 #### Negativity bias
-- People tend to pay more attention and weight to
-negative information or stimuli than positive information or stimuli
-
+- People tend to pay more attention and weight to negative information/stimuli than positive information/stimuli
 #### Peak-End effect
+- Bias that affects how people remember past events and experiences
+- People remember the peak (highest satisfaction) and the end
+- People prefer more frustration to less, if it finishes better
 
+### Computer-supported Cooperative Work (CSCW)
+- Artifacts - tools/objects that people use to cooperate
+- Feedthrough - communication through an artifact
+- Deixis - Communication paired with contextual reference ('shift that here' + point)
 ## Terms
 - Control-to-Display Gain -> The ratio of moving distance by a device to moving distance by its corresponding pointer
