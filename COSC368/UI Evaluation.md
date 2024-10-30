@@ -1,0 +1,15 @@
+### Terms
+- Population -> Everyone who might be relevant to the research question asked
+- Sample -> A respresentation portion of the population used in an experiment
+- Independent variable -> Variable representing the conditions being tested
+- Dependent variable -> Variable being measured to assess differences in the independent variable
+- Factors -> An independent variable
+- Levels -> Possible values of a factor (i.e. touchpad and trackball are two levels of the 'input device' factor)
+- Between-subjects -> Each subject performs with one level (one bro uses touchpad, one bro uses trackball)
+- Within-subjects -> Each subject performs with all levels (each bro uses touchpad and trackball)
+- Counterbalance -> Ordering the levels of a factor to avoid messing with the results (birthday thing in labs, making half the bros use touchpad first, half use trackball first)
+- ANOVA -> analysis of variance, used to determine if there are differences between levels of factors
+- t-test -> simple statistical test to compare means and distributions of two levels of a single factor (touchpad vs trackball throughput)
+- p-value -> result of a statistical test, <0.05 is deemed statistically significant. assuming null hypothesis is true, how likely (p) is it that we'd observe data at least as extreme as our sample? i.e. how likely is it that the data occurred by chance.
+- Type I errors (alpha) -> when there is no significant difference, but you say there is
+- Type II errors (beta) -> when there is significant difference, but you say there isn't
