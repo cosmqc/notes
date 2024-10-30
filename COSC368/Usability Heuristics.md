@@ -96,6 +96,3 @@
 - Ensure documentation is easy to search
 - Present documentation in context when the user needs it
 - List concrete steps that need to happen
-
-# Inspection methods
-- 
