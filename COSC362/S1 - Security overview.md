@@ -1,3 +1,11 @@
+**Week 1, Lecture 01:**
+
+> Cybersecurity is about protecting, preventing damage to, and restoring electronic communications systems (including the information included in these systems)
+
+> Information security is concerned with making sure data in any form is kept secure (protecting the CIA of the data)
+
+**Week 1, Lecture 02:**
+
 Computer Security
 > The protection afforded to an automated information system in order to attain the applicaable objectives of preserving the integrity, availablity, and confidentiality of information system resources (includes hardware, software, firmware, information/data, and telecommunications) 
 

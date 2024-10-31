@@ -30,6 +30,8 @@
 #### Hick's Law (predictive)
 - The time is takes to make a decision
 - Increases with the number and complexity of choices
+- DT = a + b * log2(n)
+- n -> number of choices
 
 Takeaways:
 - Minimize choices when response times are critical (nuclear shutdown)
