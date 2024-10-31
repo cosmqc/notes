@@ -150,11 +150,10 @@ Terms:
 
 ### Power law of practice
 - Performance rapidly speeds up with practice
-- Tn = Cn - a
+- Tn = Cn^-a
   - Tn -> time on trial n
   - C -> time on trial 1
-  - a is the learning curve (?!)
-  - equation doesn't have any powers assuming a is constant?
+  - a is the learning curve
 
 ## Terms
 - Isotonic -> muscle contraction yields movement (lifting weight)
